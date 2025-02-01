@@ -1,3 +1,5 @@
-# Template of [Crev Proof Repository](https://github.com/crev-dev/crev/wiki/Proof-Repository)
+# [Crev Proof Repository](https://github.com/crev-dev/crev/wiki/Proof-Repository)
 
-[Fork](https://github.com/crev-dev/crev-proofs/fork) this repo to create your own, empty Proof Repository.
+![Crev Rust Logo](https://img.shields.io/badge/crev-rust-blue?logo=rust)
+
+See the [crev-dev](https://github.com/crev-dev/) organization for more information.
